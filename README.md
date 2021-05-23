@@ -1,3 +1,5 @@
+### This app is an example of how to use a web-component as a micro frontend in Angular app.
+
 # NgReactWebcomponentExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.

@@ -1,0 +1,9 @@
+{
+  "/micro-frontend/main.js": {
+    "target": "http://localhost:4202",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true,
+    "pathRewrite": {"^/micro-frontend" : ""}
+  }
+}
